@@ -2,7 +2,7 @@
 #Eu recomendo que para este código funcione de maneira adequada inicie ele.
 
 print("Informática - 2º Ano")
-print("Aluno: Gustavo Paulo dos Santos")
+print("Aluno: xxxxxxx")
 
 print()
 print("Questão 01. A imobiliária Imóbilis vende apenas terrenos retangulares.\nFaça um algoritmo para ler as dimensões de um terreno e depois exibir a área do terreno.")
